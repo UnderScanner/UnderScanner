@@ -76,8 +76,7 @@ Since traditional input devices are impractical during cave explorations, I am d
 > **Implement different post processing pipelines**:
   - point cloud -> surfaces
   - point cloud warp with existing 2D maps
-> **Enhance visualisation**, add sensor path, 
-> **Try to 
+> **Enhance visualisation**, add sensor path and others
 
 ---
 
